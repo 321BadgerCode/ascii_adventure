@@ -1,0 +1,9 @@
+<1>
+1. win
+2. lose
+
+<11+>
+You have won!
+
+<12->
+You have lost :(
