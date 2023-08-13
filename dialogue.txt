@@ -1,0 +1,114 @@
+<1>
+You find yourself standing at the entrance of a massive factory. The air is filled with smoke, and the sound of machinery fills your ears.
+What will you do?
+1. Take a job at the factory.
+2. Explore the city for other opportunities.
+
+<11>
+You decide to take a job at the factory. The work is hard, and the conditions are harsh, but you learn a lot about machinery and industrial processes.
+One day, you notice a fellow worker injured due to a faulty machine.
+What will you do?
+1. Report the incident to the supervisor and demand better safety measures.
+2. Ignore the incident and focus on your work.
+
+<111>
+You report the incident to the supervisor, but they dismiss your concerns. Frustrated, you decide to take matters into your own hands.
+Will you:
+1. Organize a strike to demand better working conditions.
+2. Seek help from the Inventor's Guild to design a safer machine.
+
+<112>
+You choose to ignore the incident and focus on your work. However, the guilt of not speaking up weighs on you.
+Later, you come across a group of activists protesting against the factory's unsafe practices.
+Will you:
+1. Join the activists and support their cause.
+2. Report the activists to the factory management to avoid trouble.
+
+<2>
+Instead of taking a job at the factory, you decide to explore the city to find other opportunities.
+While wandering through the streets, you spot a flyer for the Inventor's Guild recruitment.
+Will you:
+1. Apply for admission to the Inventor's Guild.
+2. Continue exploring and see what else you can find.
+
+<21>
+You decide to apply for admission to the Inventor's Guild. They challenge you to solve a complex mechanical puzzle to prove your inventing abilities.
+Can you:
+1. Successfully solve the puzzle and impress the Guild.
+2. Fail to solve the puzzle but seek another way to gain entry.
+
+<211>
+Congratulations! You successfully solve the puzzle and gain admission to the Inventor's Guild. Your inventions gain recognition, and you become a renowned inventor in the city.
+However, jealousy and rivalry within the guild start to rise.
+Will you:
+1. Compete fiercely with other inventors to maintain your status.
+2. Try to build friendships and alliances to navigate the challenges.
+
+<212>
+You fail to solve the puzzle, but you catch the eye of a mysterious inventor who offers to help you get into the guild in exchange for a favor.
+Will you:
+1. Agree to the inventor's request and fulfill the favor.
+2. Decline the offer and find another path to achieve your dreams.
+
+<3>
+As you explore the city, you stumble upon a hidden underground workshop filled with strange and dangerous inventions.
+The enigmatic inventor who runs the place offers you a choice.
+Will you:
+1. Embrace the clandestine inventions and get involved in the world of secrecy and intrigue.
+2. Expose the underground workshop and its dangerous technologies to the authorities.
+
+<31>
+You choose to embrace the clandestine inventions and become a part of the hidden world.
+You uncover dark secrets and face moral dilemmas about whether to use or destroy the dangerous technologies.
+Will you:
+1. Use the inventions for personal gain, risking the city's safety.
+2. Destroy the dangerous technologies and prevent them from falling into the wrong hands.
+
+<32>
+You decide to expose the underground workshop to the authorities, hoping to protect the city from potential harm.
+However, doing so puts you in the crosshairs of powerful people who want the dangerous technologies for themselves.
+Will you:
+1. Go into hiding and try to evade your pursuers.
+2. Gather allies and evidence to bring down the powerful figures.
+
+<4>
+Moved by the plight of the workers and the environmental damage caused by industrialization, you join a group of activists fighting for change.
+The city is on the brink of social unrest, and your choices can influence the outcome.
+Will you:
+1. Lead peaceful protests and negotiations for workers' rights and environmental conservation.
+2. Join more radical factions advocating for violent revolution to dismantle the oppressive system.
+
+<41>
+You lead peaceful protests and negotiations, gaining public support and drawing attention to the issues.
+However, the authorities are not pleased and start cracking down on the activists.
+Will you:
+1. Continue with peaceful methods despite the risks.
+2. Take more drastic measures to challenge the oppressive regime.
+
+<42>
+You join the radical faction and take part in violent actions against the factories and the ruling class.
+Your actions draw attention and ignite a full-blown rebellion in the city.
+Will you:
+1. Take charge of the rebellion and lead the fight for justice.
+2. Realize the consequences of your actions and seek a more balanced approach.
+
+<5>
+Instead of involving yourself in the city's turmoil, you decide to explore the outskirts, where the industrial revolution hasn't yet reached.
+You encounter uncharted territories, exotic creatures, and ancient technologies long forgotten by the city's inhabitants.
+Will you:
+1. Embrace the wonders of the unknown and continue your journey.
+2. Return to the city with your newfound discoveries and share them with society.
+
+<51>
+You continue your journey through the uncharted territories, learning about the ancient technologies and the world outside the city's boundaries.
+However, you start to miss the familiar comforts of the city and wonder if you should return.
+Will you:
+1. Stay in the uncharted territories and forge a new life there.
+2. Return to the city to share your discoveries and possibly change its course.
+
+<52>
+You return to the city with your newfound discoveries, but it has changed in your absence.
+You find the city in turmoil, torn apart by conflicts and struggles.
+Will you:
+1. Join one of the existing factions to help shape the city's future.
+2. Stay neutral and attempt to bring all sides together for reconciliation.
